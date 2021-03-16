@@ -142,6 +142,6 @@ img {
 	visibility: visible;
 	position: relative;
 	top: auto;
-	transition: .3s;
+	transition: .8s;
 	transform: translate3d(0px, 0, 0);
 }
